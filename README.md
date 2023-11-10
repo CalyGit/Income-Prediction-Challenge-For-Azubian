@@ -85,29 +85,29 @@ The project consists two application. The first one accepts inputs from the user
 
 ## 3. Docker in Hugging Face
 
-- You can also run the app from hugging face docker image, browse to the following links
+- You can also run the app from Hugging Face docker image by clicking the following links
 
-        https://henok21-economic-inequality.hf.space/docs
+   https://henok21-economic-inequality.hf.space/docs
 
-        https://henok21-economic-inequality-loader.hf.space/docs
+   https://henok21-economic-inequality-loader.hf.space/docs
 
 ## Screenshots
 <h3>API for Accepting File</h3>
 
-![image](Image/screenshoot_1.PNG)
+![image](screenshots/file%20upload%20screenshot.png)
 
 <h3>API for Filling A Form </h3>
 
-![image](Image/screenshoot_2.PNG)
+![image](screenshots/form%20screenshot.png)
 
 
 ### 🤝 Connect with US :
 <ul>
 <b>
 <li><a href="mailto:henok.dirirsa@azubiafrica.org">Henok Solomon Dirirsa</a></li>
-<li><a href="mailto:henok.dirirsa@azubiafrica.org">Peter Kobena Eduah </a></li>
-<li><a href="mailto:calistus.wanyama@azubiafrica.org">Calistus Saratuki Wanyama</a></li>
-<li><a href="mailto:lawrence.larweh@azubiafrica.org">Lawrence Larweh</a></li>
-<li><a href="mailto:pascal.wambua@azubiafrica.org">Pascal Wambua </a></li>
+<li><a href="https://www.linkedin.com/in/petereduah/">Peter Kobena Eduah </a></li>
+<li><a href="https://www.linkedin.com/in/calistus-saratuki/">Calistus Saratuki Wanyama</a></li>
+<li><a href="https://www.linkedin.com/in/lawrencelarweh/">Lawrence Larweh</a></li>
+<li><a href="https://www.linkedin.com/in/pascal-wambua/">Pascal Wambua </a></li>
 </b>
 </ul>
